@@ -1,10 +1,9 @@
 # COMP4447_Project
 
 ## 1. Team member & Project objective
-      +Yutang Xiong
-      +Using techniques from data science tools class to do an analysis on Chinese movie market. 
-      Objective includes but not limited to see the sales trend, which actors/actresses/
-directors/filming companies/distribution companies are the money machines, etc. 
+      + Yutang Xiong
+      + Using techniques from data science tools class to do an analysis on Chinese movie market. 
+      Objective includes but not limited to see the sales trend, which actors/actresses/directors/filming companies/distribution companies are the money machines, etc. 
 
 ## 2. Data attributes & Metadata
       + Movie name: 美人鱼(Mermaid); 功夫熊猫2(Kung Fu Panda 2)
@@ -24,4 +23,10 @@ directors/filming companies/distribution companies are the money machines, etc.
       + Distribution: null ; 美国派拉蒙影片公司
 
 ## 3. Timeline
+
+        | data collection                         | week 6 | Feb 17th |
+        |-----------------------------------------|--------|----------|
+        | data clean/transformation               | week 7 | Feb 24th |
+        | feature engineering/statistical summary | week 8 | Mar 3rd  |
+        | visulization                            | week 9 | Mar 8th  |
        
