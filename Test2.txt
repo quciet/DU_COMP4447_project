@@ -1,1 +1,1 @@
-Another test for lazy commit
+Another test for lazy commit promise promise
