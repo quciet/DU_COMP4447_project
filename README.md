@@ -1,8 +1,7 @@
-# COMP4447_Project    - Explore Movie Sales (China/ North America)
+# Explore Movie Sales (China/ North America)
 
 
-## 1. Team member & Project objective
-- Yutang Xiong
+## 1. Project objective
 - Using techniques from data science tools class to do an analysis on Chinese movie market. Objective includes but not limited to see the sales trend, which actors/actresses/directors/filming companies/distribution companies are the money machines, etc. 
 
 ## 2.Instruction
